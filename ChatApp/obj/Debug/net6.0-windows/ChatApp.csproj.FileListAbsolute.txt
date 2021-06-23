@@ -1,0 +1,17 @@
+D:\ChatApp\ChatApp\bin\Debug\net6.0-windows\ChatApp.exe
+D:\ChatApp\ChatApp\bin\Debug\net6.0-windows\ChatApp.deps.json
+D:\ChatApp\ChatApp\bin\Debug\net6.0-windows\ChatApp.runtimeconfig.json
+D:\ChatApp\ChatApp\bin\Debug\net6.0-windows\ChatApp.dll
+D:\ChatApp\ChatApp\bin\Debug\net6.0-windows\ref\ChatApp.dll
+D:\ChatApp\ChatApp\bin\Debug\net6.0-windows\ChatApp.pdb
+D:\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatApp.csproj.AssemblyReference.cache
+D:\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatApp.Form1.resources
+D:\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatApp.csproj.GenerateResource.cache
+D:\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatApp.AssemblyInfoInputs.cache
+D:\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatApp.AssemblyInfo.cs
+D:\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatApp.csproj.CoreCompileInputs.cache
+D:\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatApp.dll
+D:\ChatApp\ChatApp\obj\Debug\net6.0-windows\ref\ChatApp.dll
+D:\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatApp.pdb
+D:\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatApp.genruntimeconfig.cache
